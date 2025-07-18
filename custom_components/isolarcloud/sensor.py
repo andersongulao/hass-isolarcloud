@@ -39,7 +39,7 @@ ENERGY_SENSORS = [
     "total_purchased_energy",
     "total_load_consumption",
     "total_yield",
-    "total_direct_energy_consumption,"
+    "total_direct_energy_consumption",
     "daily_yield"
 ]
 POWER_SENSORS = ["power", "load_power"]
